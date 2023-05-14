@@ -24,6 +24,6 @@ My name is Jon, and I'm currently studying Computer Engineering at UPC, Barcelon
   
 -Interested in C++, games and DIY<br>
 -Currently trying to learn the basics of web development<br>
--Learning step by step the skills needed to create a videogame<br>
+-Learning step by step the skills one needs to create a videogame<br>
 <br>
   Expect <b>a lot</b> of experiments, some of which may contain the worst possible code ever written, directly spawned from the Underworld itself. To me, at least, that's also a great aspect of programming &#128523;	
