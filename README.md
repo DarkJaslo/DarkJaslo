@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h2>
   About me
 </h2>
-My name is Jon, and I'm currently studying Computer Engineering at UPC, Barcelona, Spain.<br><br>
+My name is Jon, and I'm a student of Computer Engineering at UPC, Barcelona, Spain.<br><br>
   
 -Interested in C++, games and DIY<br>
 -Currently trying to learn the basics of web development<br>
