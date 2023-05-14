@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **DarkJaslo/DarkJaslo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div id="contents">
+
+<h2>
+  About me
+</h2>
+My name is Jon, and I'm currently studying Computer Engineering at UPC, Barcelona, Spain.<br><br>
+  
+-Interested in C++, games and DIY<br>
+-Currently trying to learn the basics of web development<br>
+-Learning step by step the skills needed to create a videogame<br>
+<br>
+  Expect <b>a lot</b> of experiments, some of which may contain the worst possible code ever written, directly spawned from the Underworld itself. To me, at least, that's also a great aspect of programming &#128523;	
