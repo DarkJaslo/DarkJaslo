@@ -23,10 +23,11 @@ Here are some ideas to get you started:
 My name is Jon, and I'm a student of Computer Engineering at UPC, Barcelona, Spain.<br><br>
   
 -Interested in C++, games and DIY<br>
--Currently trying to learn the basics of web development<br>
--Learning step by step the skills one needs to create a videogame<br>
+-Forced to learn Java<br>
+-Would like to make games, at least for fun<br>
+-Working on a little !(video) game<br>
 <br>
-  Expect <b>a lot</b> of experiments, some of which may contain the worst possible code ever written, directly spawned from the Underworld itself. To me, at least, that's a great aspect of programming too &#128523;	
+  Expect a lot of experiments, some of which may contain the worst possible code ever written, directly spawned from the Underworld itself. To me, at least, that's a great aspect of programming too &#128523;	
   
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkJaslo&show_icons=true&locale=en&layout=compact" alt="DarkJaslo" /></p>
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkJaslo&show_icons=true&locale=en" alt="DarkJaslo" /></p>-->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkJaslo&show_icons=true&locale=en&layout=compact" alt="DarkJaslo" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkJaslo&show_icons=true&locale=en" alt="DarkJaslo" /></p>-->
