@@ -20,12 +20,11 @@ Here are some ideas to get you started:
 <h2>
   About me
 </h2>
-My name is Jon, and I'm a student of Computer Engineering at UPC, Barcelona, Spain.<br><br>
+My name is Jon, and I'm a third year student of Computer Engineering at UPC, Barcelona, Spain.<br><br>
   
 -Interested in C++, games and DIY<br>
 -Forced to learn Java<br>
 -Would like to make games, at least for fun<br>
--Working on a little !(video) game<br>
 <br>
   Expect a lot of experiments, some of which may contain the worst possible code ever written, directly spawned from the Underworld itself. To me, at least, that's a great aspect of programming too &#128523;	
   
