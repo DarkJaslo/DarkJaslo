@@ -1,20 +1,3 @@
-<!--### Hi there 👋-->
-
-<!--
-**DarkJaslo/DarkJaslo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div id="contents">
 
 <h2>
@@ -22,8 +5,7 @@ Here are some ideas to get you started:
 </h2>
 My name is Jon, and I'm a third year student of Computer Engineering at UPC, Barcelona, Spain.<br><br>
   
--Interested in C++, games and DIY<br>
--Finally free from the hellscape that is Java<br>
+-Interested in C++, games, DIY and optimization<br>
 -Would like to make games, at least for fun<br>
 <br>
   Expect a lot of experiments, some of which may contain the worst possible code ever written, directly spawned from the Underworld itself. To me, at least, that's a great aspect of programming too &#128523;	
