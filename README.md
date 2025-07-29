@@ -3,7 +3,7 @@
 <h2>
   About me
 </h2>
-My name is Jon, and I'm currently a fourth year student of Computer Engineering at UPC, Barcelona, Spain.<br><br>
+I'm currently a fourth year student of Computer Engineering at UPC, Barcelona, Spain.<br><br>
   
 -Interested in C++, games, DIY and optimization<br>
 -Would like to make games, at least for fun<br>
